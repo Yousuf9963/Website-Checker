@@ -12,7 +12,7 @@ print("[+] Version:1.0")
 
 print("[+] Team:Junior Programmers")
 
-print("[+] Github:https://github.com/Yousuf9963/phone-num-info")
+print("[+] Github:https://github.com/Yousuf9963/Cam-Ethical-Hackers")
 
 print("[+] Follow me on Github: https://github.com/Yousuf9963")
 
@@ -28,7 +28,7 @@ import requests
 
 print("Enter Website With 'https://wwww' Example: https://www.examplewebsite.com")
 
-url = input("Enter Website to Check is Valid or not:")
+url = input("Enter Website to Check is Valid or Invalid: ")
 
 try:
 
