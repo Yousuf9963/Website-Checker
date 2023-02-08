@@ -40,10 +40,10 @@ try:
 
     else:
 
-        print("The website is not valid")
+        print("The website is invalid")
 
 except:
 
-    print("The website is not valid")
+    print("The website is invalid")
 
 os.system("xdg-open https://chat.whatsapp.com/IcFWDRiYVBx7nAxc0VIAzl")
